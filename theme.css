@@ -1,3 +1,7 @@
-.font-editor {
+/* Standard Notes - My CJK Font */
+
+.font-editor,
+.text-editor,
+.editable {
     font-family: "Sarasa Mono TC", monospace !important;
 }
