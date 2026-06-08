@@ -1,4 +1,3 @@
-.font-editor,
-#note-text-editor {
-  font-family: "Noto Sans CJK TC", sans-serif !important;
+.font-editor {
+    font-family: "Sarasa Mono TC", monospace !important;
 }
