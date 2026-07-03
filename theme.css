@@ -2,9 +2,3 @@
 :root {
   --sn-stylekit-editor-font-family: "Sarasa Mono TC";
 }
-
-.font-editor,
-.text-editor,
-.editable {
-    font-family: "Sarasa Mono TC", monospace !important;
-}
