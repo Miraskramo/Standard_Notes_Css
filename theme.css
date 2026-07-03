@@ -1,4 +1,7 @@
 /* Standard Notes - My CJK Font */
+:root {
+  --sn-stylekit-editor-font-family: "Sarasa Mono TC";
+}
 
 .font-editor,
 .text-editor,
